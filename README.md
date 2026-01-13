@@ -21,7 +21,10 @@ Lichee-Jack-3dp/
 ├─ cases/           # Main enclosure parts
 │  ├─ Lichee-Jack-top.stl
 │  ├─ Lichee-Jack-bottom.stl
-│  └─ Lichee-Jack-switch.stl
+│  ├─ Lichee-Jack-switch.stl
+│  └─ Lichee-Jack-USB-Debugger/  # USB Debugger enclosure parts
+│     ├─ Lichee-Jack-USB-Debugger-top.stl
+│     └─ Lichee-Jack-USB-Debugger-bottom.stl
 ├─ LICENSE
 └─ README.md
 ```
